@@ -2,7 +2,7 @@
 
 Some notes on the [Coursera course Cryptography](https://www.coursera.org/learn/cryptography):
 
-* [Cryptography](https://nbviewer.jupyter.org/github/thomd/notes-on-cryptography/blob/master/cryptography.ipynb)
+* [Cryptography](https://nbviewer.jupyter.org/github/thomd/notes-on-cryptography/blob/main/cryptography.ipynb)
 
 ## Setup
 
