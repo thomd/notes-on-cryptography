@@ -9,5 +9,5 @@ Some notes on the Coursera course on [Cryptography](https://www.coursera.org/lea
 
     conda create --name crypto
     conda activate crypto
-    conda install jupyterlab matplotlib
+    conda install jupyterlab matplotlib numpy
     jupyter lab
